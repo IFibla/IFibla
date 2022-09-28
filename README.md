@@ -1,2 +1,5 @@
+<h4> Here you can see my stats: </h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IFibla&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<div>   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IFibla&layout=compact&langs_count=20" />
+</div>
